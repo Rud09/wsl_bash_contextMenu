@@ -3,4 +3,5 @@ Adds a "Open Ubuntu Terminal Here" context menu option in Windows Explorer for U
 
 To install, download the reg-File "ubuntu1804-bash.reg" from above. Accept the warnings and import it. 
 ENJOY :)
-Make sure you have downloaded Ubuntu 18.04  from Windows Store
+Make sure you have downloaded Ubuntu/Ubuntu 18.04  from Windows Store
+
